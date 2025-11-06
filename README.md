@@ -49,4 +49,5 @@ This case study demonstrates the developed Python code applied to an AI-powered 
 Example prompts include inquiries about order status, product features, and return policies. Typical outputs are synthesized chatbot replies coupled with sentiment scores to gauge customer satisfaction. Comparative analysis highlights strengths, such as more empathetic language from the natural language model, while identifying areas for improvement like response latency.
 Images illustrating the system architecture, sample conversation flows, and comparative performance charts complement this study, guiding iterative enhancements toward more efficient and user-friendly customer interaction.
 
-# Result: The corresponding Prompt is executed successfully.
+# Result: 
+The corresponding Prompt is executed successfully.
